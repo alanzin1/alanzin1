@@ -1,5 +1,3 @@
-# Alanzin1
-
 ## Minhas redes sociais
 
 [![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://alanvictor.com.br)
